@@ -5,7 +5,7 @@
 👨‍💻 **Tech Innovator | AI Specialist | Solution Architect**
 
 ### Skills & Technologies
-
+<p align="center">
 <a href="https://pytorch.org" target="_blank" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="100" height="100"/>
 </a>
@@ -45,7 +45,7 @@
 <a href="https://cloud.google.com" target="_blank" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Platform" width="100" height="100"/>
 </a>
-
+</p>
 ## Education
 
 **Master of Technology (M.Tech)**  
