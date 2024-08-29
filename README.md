@@ -2,7 +2,7 @@
 
 🚀 **I am a dynamic Software Engineer II (AI domain)**, specialized in deep learning and  generative AI, expertly navigating both the image and text domains. My role involves deploying advanced AI technologies to revolutionize business processes and enrich user interactions. With a solid background in electronics and communications engineering, I'm adept at crafting solutions that not only innovate but are also perfectly aligned with real-world applications. My passion lies in unraveling complex challenges and transforming them into streamlined, powerful AI-driven solutions that expand the frontiers of technology and practicality. 🌟
 
-👨‍💻 **Tech Innovator | AI Specialist | Solution Architect**
+👨‍💻 **Tech Innovator | AI Specialist**
 
 ### Skills & Technologies
 <p align="center">
